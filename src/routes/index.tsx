@@ -170,7 +170,7 @@ function Home() {
                 </div>
               </div>
 
-              <div className="absolute -bottom-6 -left-8 hidden rotate-[1deg] rounded-xl glass-panel px-4 py-3 sm:block">
+              <div className="absolute -bottom-10 -left-10 hidden rotate-[1deg] rounded-xl glass-panel bg-ink-2/95 px-4 py-3 shadow-xl sm:block">
                 <div className="flex items-center gap-3">
                   <span className="grid size-9 place-items-center rounded-[8px] bg-linear-to-br from-accent/30 to-accent-2/20">
                     <span className="text-sm text-accent">◎</span>
